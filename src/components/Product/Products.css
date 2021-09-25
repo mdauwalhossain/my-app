@@ -1,0 +1,10 @@
+.product{
+    display: flex;
+    border-bottom: 2px solid  lightblue;
+}
+.product .pro-info{
+    margin-left: 20px;
+}
+.product .pro-info h4{
+    color: blue;
+}
